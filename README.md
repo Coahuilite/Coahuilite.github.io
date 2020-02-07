@@ -4,7 +4,9 @@
 
 这是这个博客的仓库，如果你翻到了这里，不妨去看看开发这个主题的dalao，他的主页是 [点击这里!](https://fromendworld.github.io/LOFFER)
 
-如果你直接通过我的 [pages主页](https://coahuilite.github.io/) 访问了这一页，~~那一定是我配置炸了~~，请在gihub上给我发一个issue。
+你可以直接通过我的 [pages主页](https://coahuilite.github.io/) 访问博客，若出现什么问题，请在gihub上给我发一个issue。
+
+~~即使这个博主可能根本没办法去修~~
 
 ### 声明！
 
