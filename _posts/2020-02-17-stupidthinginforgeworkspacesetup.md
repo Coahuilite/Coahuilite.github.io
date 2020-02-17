@@ -4,7 +4,7 @@ title: 设置Forge工作区时发生的蠢事
 date: 2020-02-17
 Author: Fe
 categories: 
-tags: [原创,Minecraft，Java]
+tags: [原创,Minecraft,Java]
 comments: true
 ---
 
