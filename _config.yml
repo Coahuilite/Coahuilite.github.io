@@ -7,7 +7,7 @@
 # 井号后面的文字是说明文档，不会被程序读取。
 name: AutoMotion Workshop
 # 描述/签名
-description: 自动工坊的临时主页，以及老Fe的自嗨博客
+description: 老Fe的自嗨博客
 
 #
 # 下面的设定都是可选的
@@ -44,7 +44,7 @@ footer-links:
   email: zkyang28@outlook.com #在前面填上邮箱地址
   facebook: #https://www.facebook.com/<>
   flickr: #https://www.flickr.com/<>
-  github: https://coahuilite.github.io/ #https://github.com/<>
+  github: https://github.com/Coahuilite #https://github.com/<>
   instagram: #https://instagram.com/<>
   linkedin: #https://www.linkedin.com/in/<>
   pinterest: #https://www.pinterest.com/<>
